@@ -27,11 +27,8 @@ const Navbar: React.FC = () => {
             <div className="max-w-7xl mx-auto px-4 flex justify-between items-center">
                 {/* Logo */}
                 <Link to="/" className="text-2xl font-bold text-white tracking-widest italic font-serif bg-gradient-to-r from-purple-500 to-purple-300 bg-clip-text text-transparent relative after:absolute after:bottom-0 after:left-0 after:h-1 after:w-full after:rounded-full after:bg-gradient-to-r after:from-blue-700 after:to-blue-300">
-                    Dapur Sehat
+                    PT. Mulia Jaya Umat
                 </Link>
-                <p className="text-md font-thin text-right tracking-widest text-white ml-2">
-                    PT Mulia Jaya Umat
-                </p>
             </div>
         </nav>
     );

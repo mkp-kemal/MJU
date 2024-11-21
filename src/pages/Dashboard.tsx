@@ -77,11 +77,12 @@ const Dashboard: React.FC = () => {
         {/* Left Column - Text Content */}
         <div className="w-full md:w-1/2 mb-4 md:mb-0 md:mr-10">
           <h2 className="text-base sm:text-lg md:text-2xl font-semibold text-blue-700 mb-2">
-            Profil <span className="italic">Dapur Sehat</span>
+            {/* Profil <span className="italic">PT. Mulia Jaya Umat</span> */}
+            Profile
           </h2>
           <p className="text-xs sm:text-sm md:text-base text-gray-700 mb-2 sm:mb-4 text-justify">
-            Dapur Sehat <br />
-            PT. Mulia Jaya Umat (MJU)
+            {/* Dapur Sehat <br /> */}
+            PT. Mulia Jaya Umat
           </p>
           <p className="text-xs sm:text-sm md:text-base text-gray-700 mb-2 sm:mb-4 text-justify">
             <b>Direktur:</b> Rosita, SP <br />
@@ -116,7 +117,7 @@ const Dashboard: React.FC = () => {
 
       {/* Maps Section */}
       <div className="w-full mt-10">
-        <h2 className="text-base sm:text-lg md:text-2xl font-semibold text-blue-700 mb-4">Lokasi Dapur Sehat PT. Mulia Jaya Umat (MJU) <p className='italic text-sm'>Jln. Darmita Atmadja, No. 25, Ganjar Sabar, Kec Nagreg, Kab. Bandung</p></h2>
+        <h2 className="text-base sm:text-lg md:text-2xl font-semibold text-blue-700 mb-4">Lokasi PT. Mulia Jaya Umat<p className='italic text-sm'>Jln. Darmita Atmadja, No. 25, Ganjar Sabar, Kec Nagreg, Kab. Bandung</p></h2>
         <div className="w-full h-64 sm:h-80 md:h-96 rounded-lg overflow-hidden shadow-lg">
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3959.895547299765!2d107.88093136335948!3d-7.021562883216017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zN8KwMDEnMTcuNCJTIDEwN8KwNTMnMDAuMiJF!5e0!3m2!1sen!2sid!4v1731298467118!5m2!1sen!2sid"
