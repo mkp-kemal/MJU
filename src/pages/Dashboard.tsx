@@ -86,7 +86,7 @@ const Dashboard: React.FC = () => {
           </p>
           <p className="text-xs sm:text-sm md:text-base text-gray-700 mb-2 sm:mb-4 text-justify">
             <b>Direktur:</b> Rosita, SP <br />
-            <b>Komisaris:</b> Sugandi Miharja
+            <b>Komisaris:</b> S. Miharja
           </p>
           <p className="text-xs sm:text-sm md:text-base text-gray-700 mb-2 sm:mb-4 text-justify">
             <b>Alamat:</b> Jln. Darmita Atmadja, No. 25, Ganjar Sabar, Kec Nagreg, Kab. Bandung
